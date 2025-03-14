@@ -4,5 +4,5 @@ function delayedGreeting(name) {
   }, 2000);
 }
 
-// Example usage:
+// Example:
 delayedGreeting("Alice"); // Logs "Hello, Alice!" after 2 seconds
