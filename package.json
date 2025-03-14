@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "sequelize": "^6.37.6"
+  },
+  "name": "midterm-exam-solution",
+  "version": "1.0.0",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larie08/midterm-exam-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larie08/midterm-exam-solution/issues"
+  },
+  "homepage": "https://github.com/larie08/midterm-exam-solution#readme",
+  "description": ""
+}
